@@ -1,0 +1,95 @@
+html{
+	background-image: url(images/seigaiha.png);	
+}
+body{
+	background-image:  url(images/BA_new_icon.png);
+		background-attachment: fixed;
+		background-position: right top;
+		background-repeat: no-repeat;
+		display: block;
+}
+h1{
+	font-size: 40px;
+	font-family: sans-serif;
+	color: #333;
+	text-align: center;
+}
+.h1low{
+	font-size: 20px;
+	color: #ccc;
+	font-family: cursive;
+}
+.pidzag{
+	font-size: 16px;
+	color: #888;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+.section{
+	text-align: center;
+	font-size: 30px;
+	font-family: sans-serif;
+	text-decoration: none;
+	font-variant: small-caps;
+}
+:link{
+	text-decoration: none;
+}
+:visited{
+	color: #a9a;
+}
+.arrow:active{
+	color: #333;
+	text-decoration: overline;
+}
+.section:hover{
+	
+}
+.arrow:hover{
+	background-image: url(images/short_arrow_right-512.png);
+	background-repeat: no-repeat;
+	background-position: left;
+	color: #333;
+}
+.paraghraf{
+	color:#222;
+	font-weight: bold;
+	font-size: 18px;
+	text-align: justify;
+    }
+p{
+	text-indent: 40px;
+	font-family: cursive;
+	font-weight: bold;
+}
+p:first-line{
+	color: #a83;
+	font-size: 27px;
+}
+p:first-letter{
+	color: #ea3;
+	font-size: 36;
+}
+h2{
+	font-weight: 35px;
+	font-family: cursive;
+	text-align: justify;
+}
+.table{
+	font-size: 18px;
+	font-family: Verdana;
+}
+.head{
+	background-color: #666;
+	color: #fff;
+}
+.qwe:hover{
+	background-color: #ccc;
+}
+.ewq:hover{
+	background-color: #ccc;
+}
+.ewq{
+	color: white;
+background-color: #a83;
+}
